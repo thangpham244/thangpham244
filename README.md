@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 T'm Pham Manh Thang. I’m currently learning at FPT University Da Nang.
+
+🔭 Application development technologies such as .NET, JAVA, HTML5, CSS3.
+
+📫 How to reach me: https://www.facebook.com/mang.24.04
 <!--
 **thangpham244/thangpham244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
